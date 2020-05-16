@@ -1,3 +1,6 @@
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QjAedthAEwI/0.jpg)](https://www.youtube.com/watch?v=QjAedthAEwI)
+Video: https://youtu.be/QjAedthAEwI
+
 MIT License. Do whatever you want.
 
 DMSkybox is the "skybox" system I like to use. Instead of using a single skybox assigned in the lighting tab, I like to create a few spheres that the world sits inside. This lets me layer effects a bit nicer instead of cramming it all into a single shader.  Performance is probably worse, but easier to manage.
