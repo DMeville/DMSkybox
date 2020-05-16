@@ -1,4 +1,5 @@
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QjAedthAEwI/0.jpg)](https://www.youtube.com/watch?v=QjAedthAEwI)
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/cc22E3z.png)](https://www.youtube.com/watch?v=QjAedthAEwI)
+
 Video: https://youtu.be/QjAedthAEwI
 
 MIT License. Do whatever you want.
